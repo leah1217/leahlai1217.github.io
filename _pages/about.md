@@ -5,4 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-"Whoever is happy will make others happy too." -Anne Frank
+"Whoever is happy will make others happy too." - Anne Frank
